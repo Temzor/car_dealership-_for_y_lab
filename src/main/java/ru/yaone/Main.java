@@ -12,7 +12,7 @@ import ru.yaone.app.CarShopApp;
 public class Main {
 
     /**
-     * Точка входа в приложение CarShop.
+     * Точка входа в приложение CarShop..
      *
      * @param args аргументы командной строки (не используются)
      */
